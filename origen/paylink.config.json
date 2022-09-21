@@ -5,17 +5,17 @@
     "name": "Eduardo Díaz Santamarina",
     "description": "Creador de contenido en HIVE",
     "alt": "Photo of Eduardo Díaz Santamarina",
-    "hero": "./images/daniel-castillo.png"
+    "hero": "./images/IMG_20220702_192143.jpg"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "" },
+    { "label": "GitHub", "type": "github", "link": "https://github.com/eduardo900613" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/eduardo900613" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "" },
+    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/elchino9006" },
     { "label": "Discord", "type": "discord", "link": "" },
-    { "label": "Facebook", "type": "facebook", "link": "" },
+    { "label": "Facebook", "type": "facebook", "link": "https://www.facebook.com/profile.php?id=100009853691480" },
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
     { "label": "Snapchat", "type": "snapchat", "link": "" },
@@ -32,13 +32,13 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1qsd9sq04c7wetwwxqkxz6jvtgplhh22g7f6plt3",
       "img": "./images/payments/btc.svg"
     },
     {
       "id": "busd",
       "label": "BinanceUSD",
-      "value": "",
+      "value": "0xF5d6254E4e1615f0Ef666A5C19eA898d360922aA",
       "img": "./images/payments/busd.svg"
     },
     {
@@ -50,19 +50,19 @@
     {
       "id": "doge",
       "label": "DogeCoin",
-      "value": "",
+      "value": "DB81hvb1uAiMCjim16xbnEsKw1y8vuuBQG",
       "img": "./images/payments/doge.svg"
     },
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "0xF5d6254E4e1615f0Ef666A5C19eA898d360922aA",
       "img": "./images/payments/eth.svg"
     },
     {
       "id": "ltc",
       "label": "Litecoin",
-      "value": "",
+      "value": "ltc1q63l53f286lx44ruxjpq0d9yr8u2de82eh8ap3c",
       "img": "./images/payments/ltc.svg"
     },
     {
@@ -74,19 +74,19 @@
     {
       "id": "usdt",
       "label": "USDT",
-      "value": "",
+      "value": "TFsonaFJ5EuWJvHCJ51kEhvm1i4kMivkHP",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "https://qvapay.com/payme/eduardo900613",
       "img": "./images/payments/qvapay.svg"
     },
     {
       "id": "sol",
       "label": "Solana",
-      "value": "",
+      "value": "CYz6ywooQY9MSKzDiW82HbcBiyc3kPw7mFR4fumD9P9w",
       "img": "./images/payments/sol.svg"
     },
     {
@@ -98,7 +98,7 @@
     {
       "id": "trx",
       "label": "Tron",
-      "value": "",
+      "value": "TFsonaFJ5EuWJvHCJ51kEhvm1i4kMivkHP",
       "img": "./images/payments/trx.svg"
     },
     {
@@ -108,9 +108,15 @@
       "img": "./images/payments/xrp.svg"
     },
     {
-      "id": "card",
-      "label": "Card",
-      "value": "",
+      "id": "card cup",
+      "label": "Card CUP",
+      "value": "9204-0699-9610-4832",
+      "img": "./images/payments/card.svg"
+    }
+ {
+      "id": "card usd",
+      "label": "Card USD",
+      "value": "9225-0699-9400-5309",
       "img": "./images/payments/card.svg"
     }
   ]
